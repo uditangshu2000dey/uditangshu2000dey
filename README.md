@@ -1,4 +1,3 @@
-![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg))]()
 <h1 align="center">Hi 👋, I'm Uditangshu Dey</h1>
 <h3 align="center">A passionate Technology freak from India</h3>
 
