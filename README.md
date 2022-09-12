@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Product Management**
+- 🔭 I’m currently working on **Ai based project**
 
-- 🌱 I’m currently learning **Computer science and Engineering**
+- 🌱 I’m currently learning **Computer science and Engineering & project management**
 
 - 🤝 I’m looking for help with **Research papers and publishing**
 
